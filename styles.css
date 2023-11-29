@@ -243,9 +243,6 @@ header {
 }
 
 @media only screen and (max-width: 600px) {
-    h1{
-        padding-top: 30px;
-    }
     header {
         padding: 15px 5%;
     }
@@ -293,9 +290,6 @@ header {
 }
 
 @media only screen and (max-width: 600px) {
-    h1{
-        padding-top: 30px;
-    }
     .Titulo {
         font-size: 24px;
     }
@@ -315,10 +309,6 @@ header {
 }
 
 @media only screen and (max-width: 600px) {
-
-    h1{
-        padding-top: 30px;
-    }
     
     .bloco-2 h1 {
         text-align: center;
@@ -343,19 +333,11 @@ header {
 }
 
 @media only screen and (max-width: 600px) {
-    
-    h1{
-        padding-top: 30px;
-    }
     .Titulo {
         font-size: 24px;
     }
 }
 @media only screen and (max-width: 600px) {
-    
-    h1{
-        padding-top: 30px;
-    }
     .bloco-1, .bloco-2 {
         padding-top: 50px;
         display: flex;
@@ -374,9 +356,6 @@ header {
     }
 }
 @media only screen and (max-width: 600px) {
-    h1{
-        padding-top: 30px;
-    }
     .menu-container {
         width: 100%;
         left: -100%;
@@ -393,9 +372,6 @@ header {
 }
 
 @media only screen and (max-width: 600px) {
-    h1{
-        padding-top: 30px;
-    }
     .navlist a {
         margin-left: 0;
         margin-bottom: 10px;
@@ -403,9 +379,6 @@ header {
 }
 
 @media only screen and (max-width: 600px) {
-    h1{
-        padding-top: 30px;
-    }
     .bloco-1, .bloco-2 {
         padding-top: 50px;
         display: flex;
