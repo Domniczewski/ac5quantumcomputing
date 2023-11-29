@@ -399,7 +399,7 @@ header {
 
 @media only screen and (max-width: 600px) {
     h1{
-        padding-top: 30px;
+        padding-top: 100px;
     }
     .menu-container {
         width: 100%;
